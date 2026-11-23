@@ -1,3 +1,6 @@
+**Drobnosti, které vylepšují můj pracovní stůl.**  
+*Small tweaks that improve my desktop.*
+
 - 👋 Hi, I’m @navik61
 - 👀 I’m interested in Arch
 - 🌱 I’m currently learning python
